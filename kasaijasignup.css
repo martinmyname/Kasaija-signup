@@ -1,0 +1,30 @@
+.jumbotron {
+  background-image:url(wall.jpeg);
+  background-size: 100% 100%;
+  text-align: center;
+}
+button{
+	 float: initial;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+}
+h3{
+	color: red;
+}
+p{
+  font-style: bold;
+  color: blue;
+}
+#add-info{
+  text-align: center;
+  background-image: url(good.png);
+}
+h1{
+  text-align: center;
+}
